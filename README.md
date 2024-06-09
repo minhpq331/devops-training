@@ -10,9 +10,9 @@ This repository contains the materials for the DevOps training path. It's a step
 
 The training is divided into multiple modules. Each module is a separate folder in this repository. You must fork this repository to your own GitHub account and clone it to your local machine. You can then follow the instructions in each module to complete the training. On each step, you should add your knowledge and notes to the training materials for future reference.
 
-The modules are as follows:
+The modules are as follows (✅ means I've done the instructions)
 
-1. [Module 1: Preparing project](01-preparing-project/README.md)
+1. [Module 1: Preparing project](01-preparing-project/README.md) ✅
 2. [Module 2: Setup a server](02-setup-server/README.md)
 3. [Module 3: Setup dependencies](03-setup-dependencies/README.md)
 4. [Module 4: Deploy backend](04-deploy-backend/README.md)
