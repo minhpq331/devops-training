@@ -39,4 +39,4 @@ You will have your time to research, learn, and implement the module. You can ad
 
 ## What will you do if you feel everything is too easy?
 
-Well, everything has a starting point. In the beginning it might be easy and you will feel like you are not learning anything new. But as you progress and write down your notes, you will see that some basic things are not that basic. There's a lot of knowledge behind them
+Well, everything has a starting point. In the beginning it might be easy and you will feel like you are not learning anything new. But as you progress and write down your notes, you will see that some basic things are not that basic. There's a lot of knowledge behind them. By listing down all of the fragments of knowledge, you will see the big picture and understand how everything is connected. So, don't rush, take your time, and enjoy the learning process.
