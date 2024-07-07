@@ -15,9 +15,9 @@ The modules are as follows (✅ means I've done the instructions)
 1. [Module 1: Preparing project](01-preparing-project/README.md) ✅
 2. [Module 2: Setup a server](02-setup-server/README.md) ✅
 3. [Module 3: Setup dependencies](03-setup-dependencies/README.md) ✅
-4. [Module 4: Deploy backend](04-deploy-backend/README.md)
-5. [Module 5: Deploy frontend](05-deploy-frontend/README.md)
-6. [Module 6: Setup a domain](06-setup-domain/README.md)
+4. [Module 4: Deploy backend](04-deploy-backend/README.md) ✅
+5. [Module 5: Deploy frontend](05-deploy-frontend/README.md) ✅
+6. [Module 6: Setup a domain](06-setup-domain/README.md) ✅
 7. [Module 7: Setup a reverse proxy](07-setup-reverse-proxy/README.md)
 8. [Module 8: Setup SSL](08-setup-ssl/README.md)
 9. [Module 9: CI/CD basics](09-cicd-basics/README.md)
