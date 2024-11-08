@@ -25,3 +25,7 @@ In order to complete the training, just don't pick a project that is too small o
 
 - [12factor](https://12factor.net/)
 - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+## Useful Resources
+
+- [Building an Uber Clone](https://jurajmajerik.com/blog/start-here/): An awesome example of preparing project for the training. It should include the architecture of the application and overview of all the features you want to implement.
