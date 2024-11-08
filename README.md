@@ -36,7 +36,7 @@ Each module contains the following information:
 
 - **Requirements**: What you need to do aka what is the goal of the module.
 - **Basic instructions**: Basic steps to complete the module or hints. Just a skeleton to get you started.
-- 🔥 **Useful Links**: Some useful links to get started with the module like examples, tutorials, documentations, etc.
+- 🔥 **Useful Resources**: Some useful links to get started with the module like examples, tutorials, documentations, etc.
 
 You will have your time to research, learn, and implement the module. You can add your notes, commands, and configurations to the module's folder. You can also add your questions, thoughts, and ideas to the module's README file. After that, ping me to review your work and give you feedback.
 

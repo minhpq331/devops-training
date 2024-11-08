@@ -15,3 +15,9 @@ Our goal in this module is a ready-to-use server with basic security configurati
 5. Change the default SSH port to a custom port. You can choose any port number between 1024 and 65535.
 6. Update the server packages and install basic tools like `vim`, `curl`, `wget`, `htop`, `net-tools`, etc.
 7. Setup a basic firewall using `ufw` or `iptables`. Allow only SSH (or your custom port), HTTP, and HTTPS ports. You can use cloud provider's firewall as well, make sure you use `telnet` command to check if the firewall is working properly.
+
+## Useful Resources
+
+- [15 ways to secure and harden your Linux VPS](https://krystal.io/blog/post/securing-and-hardening-your-vps): A basic guide to secure your Linux VPS. Just some keywords for you to search
+- [How to secure a VPS](https://help.ovhcloud.com/csm/asia-vps-security-tips?id=kb_article_view&sysparm_article=KB0047695): An useful guide with detailed steps that implement some of the best practices.
+- [AKcryptoGUY's Awesome Server Hardening Script](https://github.com/akcryptoguy/vps-harden): An all-in-one convenient script to secure your VPS. But you really need to understand about all stuffs in that script before running. Quite old (tested on ubuntu <= 20), but it's still very useful.
