@@ -22,3 +22,10 @@ Our goal in this module is to install Certbot, obtain an SSL certificate for you
 
 - SSL certificates from Let’s Encrypt expire every 90 days. Certbot can set up automatic renewal, but regular checks or a tool like uptime robot, kuma, etc. can help prevent any certificate expiration issues. You need to test the ability to reload Nginx after updating the SSL certificate. 
 - Make sure after configuring Nginx to enforce HTTPS, your nginx can still serve ACME requests using HTTP so Certbot can automatically renew your certificates
+
+## Useful Resources
+
+- [How HTTPS works](https://howhttps.works/): How HTTPS works with funny explainations in comic.
+- [How To Secure Nginx with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-22-04): Just the basic guide everyone should read.
+- [How To Create Let's Encrypt Wildcard Certificates with Certbot](https://www.digitalocean.com/community/tutorials/how-to-create-let-s-encrypt-wildcard-certificates-with-certbot): Setup wildcard certificate for multiple domains with certbot
+- [An ACME Shell script: acme.sh](https://github.com/acmesh-official/acme.sh): Another "professional" way to obtain free SSL certificates with multiple providers (not only Let's Encrypt)

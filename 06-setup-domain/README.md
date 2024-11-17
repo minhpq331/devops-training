@@ -18,3 +18,8 @@ Our goal in this module is to register a domain and point it to our server's IP 
 
 - Learn about Proxy mode when adding an A record on Cloudflare. It's important to understand how Cloudflare Proxy works and how it affects your traffic. In this module, you shouldn't enable Proxy mode, just use DNS only mode.
 - Don't register a domain with a registrar that doesn't allow you to change Nameserver (NS) records. You need to have full control over the DNS settings to manage your domain properly.
+
+## Useful Resources
+
+- [How to set up DNS records for your domain in a Cloudflare account](https://www.namecheap.com/support/knowledgebase/article.aspx/9607/2210/how-to-set-up-dns-records-for-your-domain-in-a-cloudflare-account/): Some basic guide to point your nameserver records to Cloudflare and manage DNS records in a Cloudflare account
+- [Domain Registrar or DNS Hosting](https://www.digicert.com/blog/registrar-or-dns-hosting-the-difference-explained): The basic difference between Domain registrar and DNS hosting aka why we still need Cloudflare if we purchase domain at Godaddy.com

@@ -30,3 +30,10 @@ Our goal in this module is to configure Nginx as a reverse proxy on our server. 
     - Location configuration and how nginx matches requests against those locations
     - Nginx proxy module configurations and timeout configurations
     - Some best practices like hardening security for your website, protect hidden files, preventing XSS, clickjacking, etc.
+
+## Useful Resources
+
+- [How to install Nginx on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04): The basic guide on how to install Nginx everyone should know
+- [Understanding Nginx Server and Location Block Selection Algorithms](https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms): Explaination about how Nginx's matching engine works.
+- [Nginx reverse proxy security and performance best practices](https://maxtsh.medium.com/nginx-reverse-proxy-security-and-performance-best-practices-e47f599c8fed): Some basic and easy-to-use configurations for securing your Nginx
+- [Nginx Admins Handbook](https://github.com/trimstray/nginx-admins-handbook): The dictionary to deep dive into Nginx's administration

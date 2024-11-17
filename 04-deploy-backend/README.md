@@ -21,3 +21,7 @@ Our goal in this module is to deploy a nodejs backend application to the server.
 - Install correct Node.js version on the server. If your backend and frontend applications have different Node.js versions, you should use `nvm` and learn how to use `.nvmrc` file to specify the Node.js version for the application.
 - Mind the application host and port. You should learn about different network interfaces and how to bind the application to a specific interface or all interfaces. You should also learn how to change the application port if it's already in use by another application. This is important for running multiple applications on the same server and avoid port conflicts. This affects your server's security as well. For example, if you have a reverse proxy in front of your application, you should bind the application to `localhost` and a specific port, and let the reverse proxy handle the public access.
 - When using a process manager, you should define all your params in a declarative way. Try not to use params in the command line because it is not reproducible.
+
+## Useful Resources
+
+- [Deploying Node.js applications with PM2](https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr/): Some basic guide to install nodejs application with pm2 on VPS
