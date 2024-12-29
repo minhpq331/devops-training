@@ -22,7 +22,7 @@ The modules are as follows (✅ means I've done the instructions)
 6. [Module 6: Setup a domain](06-setup-domain/README.md) ✅
 7. [Module 7: Setup a reverse proxy](07-setup-reverse-proxy/README.md) ✅
 8. [Module 8: Setup SSL](08-setup-ssl/README.md) ✅
-9. [Module 9: CI/CD basics](09-cicd-basics/README.md)
+9. [Module 9: CI/CD basics](09-cicd-basics/README.md) ✅
 10. [Module 10: Deploy using docker](10-deploy-using-docker/README.md)
 11. [Module 11: Deploy using Swarm](11-deploy-using-swarm/README.md)
 12. [Module 12: Logging](12-logging/README.md)
